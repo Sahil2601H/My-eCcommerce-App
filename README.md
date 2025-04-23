@@ -8,7 +8,4 @@ A  Java-full‑stack shop built with Spring Boot 3 micro‑services (Auth, C
 ![Screenshot (626)](https://github.com/user-attachments/assets/12975852-3e9f-4158-bdec-39806cf25ce4)
 ![Screenshot (712)](https://github.com/user-attachments/assets/79fe9e63-1425-4cc7-9a9a-06e97b86b70e)
 ![Screenshot (738)](https://github.com/user-attachments/assets/f6f6ff92-742e-4b14-a385-a51e7785c9e9)
-<img width="959" alt="seller add prdct" src="https://github.com/user-attachments/assets/29730f6b-1d59-4af1-977a-02524430ea12" />
 
-g Screenshot (759).png…]()
-/>
